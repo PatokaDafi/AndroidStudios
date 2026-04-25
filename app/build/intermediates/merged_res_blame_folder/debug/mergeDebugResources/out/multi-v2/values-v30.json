@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.alvionscoutlite.app-mergeDebugResources-47:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\petko\\.gradle\\caches\\9.4.1\\transforms\\fe8f426a076e76641767ab1b098495b5\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

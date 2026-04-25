@@ -1,0 +1,377 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.maps.android:maps-compose:6.1.2] C:\Users\petko\.gradle\caches\9.4.1\transforms\38c79216a73fa9e8015afdbf4144e955\transformed\maps-compose-6.1.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:maps-ktx:5.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\23ed0a392765a2f248596da2e14f1e4c\transformed\maps-ktx-5.1.1\AndroidManifest.xml:18:1-23:12
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ed7585b93ac76f84f5c1ec742797ea1f\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2dbc6a06b2b3d2c1d5194668d3c1af13\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2e777df50b2bf540e840f31d4cdd903a\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\3572da72713b1afd7ec7bb3d0141dfc6\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\3f346cd949a9ca1b04eed7c4a6b2af9b\transformed\activity-1.10.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\fe8f426a076e76641767ab1b098495b5\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\4a83f88ca1c1675214ecc1a4a72345bf\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\15dcbcda75332b11a4dd9be360f94df0\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\174eb151825708fadb2f01c0eb505b7f\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\ecd746eed7ff941fc379ca338946c4b7\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\01a42de1ee16554dcd0eb6aa81b5765e\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\8b81fbb9d1603260823370482ce4bb6e\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\0f77fdd55cd9df4b58a6bcb85149ea3c\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\427f284e4486fd4a1c6c91b3d9f1f31a\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\6af9c6f27fe61f3284bed28f8967e56a\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\a015834903e46fdc5f0797605883eea6\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\ce6f68dfb322575051626a8da1eafdef\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\ec565f52adc838dbeb8723966f5efcf2\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\4d35140bf078ddf76be81210da4f7a74\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\f6df122bd9d4720d72d7cbefd7ad0804\transformed\activity-ktx-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\e12273f6a5d1978e304ae4fee9399af2\transformed\activity-compose-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\f851f94e1a3d0d23bec5a47d70a1167d\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\73f37db728b13814259c56b5227f7405\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\7cf553aab46620a59aa8aad319afc0ab\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\290fe7e1d14838480fd25988ac529a3f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1df02560b3041f17006cfd9d525bfff6\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\e9333fc89f7617848d40b729498e0280\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\7dd1decb9d57e298ef7baa86d8f8760d\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\357134464b11c646c2872b26271478da\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\17183e52b1675d5113cfe5379d6c3d98\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\6ff27fab9da22dfd1add7c7527559be5\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\aa285725ca3d2965a110363d69454438\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\f638c18c424b367c8ccda9f7725a4e24\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\f945985c13d9e454c92d2a8f0ee9ee0b\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\e9d76e878ebe725f6915a08954c3b82e\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\736c666f204be8c78dd5afb8afb15058\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\d14b2686c9b0b163ca973ebf76e61d9c\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\26a9f4f395ffc5fe03499a5df0b2f887\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\97d442e10bbd42c7aaf78be0695cdfdf\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ae1faa77b1cc78c590fd9c03d661b45b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2d55838c6f10f7b384e0e789169f643f\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\2003135668a2bf96a6069c770f2bfdf7\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\db6cdfb7f7974c4ef67e2df05ec9459e\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\b6954dfb21611805bd4941d453b1cc5b\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\d315cb01455a7c951d606fbd91b0a8e1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ad11055a93ad024cc7084828fb5632d7\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\412663f7a2653b6cd5993f20e8f83d15\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.4.2] C:\Users\petko\.gradle\caches\9.4.1\transforms\de9b87833b4d7b279c4bae0f99074036\transformed\viewbinding-8.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\33d682243962e202147ef8aa14a6a844\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\72884c18606d500c5d264da734015a2c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:4:5-20:19
+INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:4:5-20:19
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ed7585b93ac76f84f5c1ec742797ea1f\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ed7585b93ac76f84f5c1ec742797ea1f\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2dbc6a06b2b3d2c1d5194668d3c1af13\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2dbc6a06b2b3d2c1d5194668d3c1af13\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2e777df50b2bf540e840f31d4cdd903a\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2e777df50b2bf540e840f31d4cdd903a\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\17183e52b1675d5113cfe5379d6c3d98\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\17183e52b1675d5113cfe5379d6c3d98\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\d315cb01455a7c951d606fbd91b0a8e1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\d315cb01455a7c951d606fbd91b0a8e1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\412663f7a2653b6cd5993f20e8f83d15\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\412663f7a2653b6cd5993f20e8f83d15\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:10:9-72
+activity#com.example.alvionscoutlite.MainActivity
+ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:exported
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:13:13-36
+	android:theme
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:14:13-76
+	android:name
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml
+MERGED from [com.google.maps.android:maps-compose:6.1.2] C:\Users\petko\.gradle\caches\9.4.1\transforms\38c79216a73fa9e8015afdbf4144e955\transformed\maps-compose-6.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:maps-compose:6.1.2] C:\Users\petko\.gradle\caches\9.4.1\transforms\38c79216a73fa9e8015afdbf4144e955\transformed\maps-compose-6.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:maps-ktx:5.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\23ed0a392765a2f248596da2e14f1e4c\transformed\maps-ktx-5.1.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.maps.android:maps-ktx:5.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\23ed0a392765a2f248596da2e14f1e4c\transformed\maps-ktx-5.1.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ed7585b93ac76f84f5c1ec742797ea1f\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ed7585b93ac76f84f5c1ec742797ea1f\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2dbc6a06b2b3d2c1d5194668d3c1af13\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2dbc6a06b2b3d2c1d5194668d3c1af13\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2e777df50b2bf540e840f31d4cdd903a\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2e777df50b2bf540e840f31d4cdd903a\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\3572da72713b1afd7ec7bb3d0141dfc6\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\3572da72713b1afd7ec7bb3d0141dfc6\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\3f346cd949a9ca1b04eed7c4a6b2af9b\transformed\activity-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\3f346cd949a9ca1b04eed7c4a6b2af9b\transformed\activity-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\fe8f426a076e76641767ab1b098495b5\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\fe8f426a076e76641767ab1b098495b5\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\4a83f88ca1c1675214ecc1a4a72345bf\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\4a83f88ca1c1675214ecc1a4a72345bf\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\15dcbcda75332b11a4dd9be360f94df0\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\15dcbcda75332b11a4dd9be360f94df0\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\174eb151825708fadb2f01c0eb505b7f\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\174eb151825708fadb2f01c0eb505b7f\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\ecd746eed7ff941fc379ca338946c4b7\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\ecd746eed7ff941fc379ca338946c4b7\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\01a42de1ee16554dcd0eb6aa81b5765e\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\01a42de1ee16554dcd0eb6aa81b5765e\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\8b81fbb9d1603260823370482ce4bb6e\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\8b81fbb9d1603260823370482ce4bb6e\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\0f77fdd55cd9df4b58a6bcb85149ea3c\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\0f77fdd55cd9df4b58a6bcb85149ea3c\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\427f284e4486fd4a1c6c91b3d9f1f31a\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\427f284e4486fd4a1c6c91b3d9f1f31a\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\6af9c6f27fe61f3284bed28f8967e56a\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\6af9c6f27fe61f3284bed28f8967e56a\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\a015834903e46fdc5f0797605883eea6\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\a015834903e46fdc5f0797605883eea6\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\ce6f68dfb322575051626a8da1eafdef\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\ce6f68dfb322575051626a8da1eafdef\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\ec565f52adc838dbeb8723966f5efcf2\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\ec565f52adc838dbeb8723966f5efcf2\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\4d35140bf078ddf76be81210da4f7a74\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\4d35140bf078ddf76be81210da4f7a74\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\f6df122bd9d4720d72d7cbefd7ad0804\transformed\activity-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\f6df122bd9d4720d72d7cbefd7ad0804\transformed\activity-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\e12273f6a5d1978e304ae4fee9399af2\transformed\activity-compose-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\e12273f6a5d1978e304ae4fee9399af2\transformed\activity-compose-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\f851f94e1a3d0d23bec5a47d70a1167d\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\f851f94e1a3d0d23bec5a47d70a1167d\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\73f37db728b13814259c56b5227f7405\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\73f37db728b13814259c56b5227f7405\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\7cf553aab46620a59aa8aad319afc0ab\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\7cf553aab46620a59aa8aad319afc0ab\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\290fe7e1d14838480fd25988ac529a3f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\290fe7e1d14838480fd25988ac529a3f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1df02560b3041f17006cfd9d525bfff6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1df02560b3041f17006cfd9d525bfff6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\e9333fc89f7617848d40b729498e0280\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\e9333fc89f7617848d40b729498e0280\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\7dd1decb9d57e298ef7baa86d8f8760d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\7dd1decb9d57e298ef7baa86d8f8760d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\357134464b11c646c2872b26271478da\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\357134464b11c646c2872b26271478da\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\17183e52b1675d5113cfe5379d6c3d98\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\17183e52b1675d5113cfe5379d6c3d98\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\6ff27fab9da22dfd1add7c7527559be5\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\6ff27fab9da22dfd1add7c7527559be5\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\aa285725ca3d2965a110363d69454438\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\aa285725ca3d2965a110363d69454438\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\f638c18c424b367c8ccda9f7725a4e24\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\f638c18c424b367c8ccda9f7725a4e24\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\f945985c13d9e454c92d2a8f0ee9ee0b\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\f945985c13d9e454c92d2a8f0ee9ee0b\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\e9d76e878ebe725f6915a08954c3b82e\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\e9d76e878ebe725f6915a08954c3b82e\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\736c666f204be8c78dd5afb8afb15058\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\736c666f204be8c78dd5afb8afb15058\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\d14b2686c9b0b163ca973ebf76e61d9c\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\d14b2686c9b0b163ca973ebf76e61d9c\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\26a9f4f395ffc5fe03499a5df0b2f887\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\26a9f4f395ffc5fe03499a5df0b2f887\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\97d442e10bbd42c7aaf78be0695cdfdf\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\97d442e10bbd42c7aaf78be0695cdfdf\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ae1faa77b1cc78c590fd9c03d661b45b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ae1faa77b1cc78c590fd9c03d661b45b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2d55838c6f10f7b384e0e789169f643f\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2d55838c6f10f7b384e0e789169f643f\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\2003135668a2bf96a6069c770f2bfdf7\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\2003135668a2bf96a6069c770f2bfdf7\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\db6cdfb7f7974c4ef67e2df05ec9459e\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\db6cdfb7f7974c4ef67e2df05ec9459e\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\b6954dfb21611805bd4941d453b1cc5b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\b6954dfb21611805bd4941d453b1cc5b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\d315cb01455a7c951d606fbd91b0a8e1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\d315cb01455a7c951d606fbd91b0a8e1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ad11055a93ad024cc7084828fb5632d7\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ad11055a93ad024cc7084828fb5632d7\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\412663f7a2653b6cd5993f20e8f83d15\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\412663f7a2653b6cd5993f20e8f83d15\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:8.4.2] C:\Users\petko\.gradle\caches\9.4.1\transforms\de9b87833b4d7b279c4bae0f99074036\transformed\viewbinding-8.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.4.2] C:\Users\petko\.gradle\caches\9.4.1\transforms\de9b87833b4d7b279c4bae0f99074036\transformed\viewbinding-8.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\33d682243962e202147ef8aa14a6a844\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\33d682243962e202147ef8aa14a6a844\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\72884c18606d500c5d264da734015a2c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\72884c18606d500c5d264da734015a2c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\petko\AndroidStudioProjects\AlvionScoutLite\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\1962e6df3289b9e0aa3ac8fe39efbe3c\transformed\play-services-maps-19.0.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ed7585b93ac76f84f5c1ec742797ea1f\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ed7585b93ac76f84f5c1ec742797ea1f\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ed7585b93ac76f84f5c1ec742797ea1f\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\ed7585b93ac76f84f5c1ec742797ea1f\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2e777df50b2bf540e840f31d4cdd903a\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2e777df50b2bf540e840f31d4cdd903a\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\2e777df50b2bf540e840f31d4cdd903a\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\17183e52b1675d5113cfe5379d6c3d98\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\17183e52b1675d5113cfe5379d6c3d98\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\d315cb01455a7c951d606fbd91b0a8e1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\petko\.gradle\caches\9.4.1\transforms\d315cb01455a7c951d606fbd91b0a8e1\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\6e8853cd536e0893a5e945148e95cdfa\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.example.alvionscoutlite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.alvionscoutlite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\d4a688676b6372f8a3421c59d8887817\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\17183e52b1675d5113cfe5379d6c3d98\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\17183e52b1675d5113cfe5379d6c3d98\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\petko\.gradle\caches\9.4.1\transforms\17183e52b1675d5113cfe5379d6c3d98\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\petko\.gradle\caches\9.4.1\transforms\9e8fb9ec4f1c4330f771257bb987e9cd\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
